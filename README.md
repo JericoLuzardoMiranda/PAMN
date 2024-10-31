@@ -7,6 +7,10 @@
      
 2. [Diseño](https://github.com/JericoLuzardoMiranda/PAMN/tree/dae7c0400aabdde04a921067403f5b89b2f4389d/Dise%C3%B1o)
    - Informe sobre diseño de la aplicación móvil
+   - Ejercicio práctico: Rediseño de una pantalla de aplicación de clima
+
+3. [Arquitectura de aplicaciones móviles nativas](https://github.com/JericoLuzardoMiranda/PAMN/tree/871dc620cdfa7fc6fc1e1ed750fd66da3e42b66a/Arquitectura%20de%20aplicaciones%20m%C3%B3viles%20nativas)
+   - Ejercicio práctico: Comparación de Arquitecturas de Software
 
 ## 🤝 ¿Cómo usar?
 Si desea colaborar con este repositorio, sigue estos sencillos pasos:
